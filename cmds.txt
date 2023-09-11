@@ -26,3 +26,4 @@ git push -u origin main
               git branch
               git checkout main
               git merge br
+git push --set-upstream origin master 
